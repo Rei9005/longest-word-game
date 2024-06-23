@@ -74,3 +74,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+
+gem 'open-uri', '>= 0.1.0'
